@@ -1,5 +1,7 @@
+<h1 align = "center">
+Anne Keir S. Liwanag
+</h1>
 <p align = "center">
-# Anne Keir S. Liwanag
 liwanag.annekeir@gmail.com | asliwanag1@up.edu.ph | 09605331104
 </p>
 
