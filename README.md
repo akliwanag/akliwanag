@@ -23,7 +23,9 @@ Proficient in Python, and familiar with C, Elm, and HTML. Has created several mi
 
 *Requires Pygame installed to run locally.*
 
-[Zuma Tower Defense Gameplay]()
+<p align = "center">
+<img src="gameplays/zuma-tower-defense.gif" height="400">
+</p>
 
 ## Whac-A-Mole
 *Pair collab*
@@ -41,7 +43,7 @@ Proficient in Python, and familiar with C, Elm, and HTML. Has created several mi
 *Requires Pygame installed to run locally.*
 
 <p align = "center">
-<img src="gameplays/whac-a-mole.gif" width="500">
+<img src="gameplays/whac-a-mole.gif" height="400">
 </p>
 
 ## FLAMES
@@ -52,10 +54,14 @@ Proficient in Python, and familiar with C, Elm, and HTML. Has created several mi
 - A mode switcher to toggle between crossout and count modes
 - Can add multiple names, showing FLAMES results for each consecutive pair
 - Add/remove name fields, with pairwise FLAMES results shown for every pair
+
 🔗 [View Code] ()
+
 *Ran using an online Elm compiler.*
 
-[FLAMES Gameplay]()
+<p align = "center">
+<img src="gameplays/flames.gif" height="400">
+</p>
 
 <!--
 **akliwanag/akliwanag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
