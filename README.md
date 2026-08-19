@@ -24,7 +24,7 @@ Proficient in Python, and familiar with C, Elm, and HTML. Has created several mi
 - Can play in endless mode to add name to leaderboard
 - Includes custom sprites, music, and sound effects
 
-🔗 [View Code] ()
+🔗 [View Code] (https://github.com/akliwanag/zuma-tower-defense)
 
 *Requires Pygame installed to run locally.*
 
