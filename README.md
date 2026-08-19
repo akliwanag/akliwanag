@@ -35,10 +35,14 @@ Proficient in Python, and familiar with C, Elm, and HTML. Has created several mi
   - Rich Mole – gains +1 point value each time it hides without being hit
   - Scaredy Mole – if hit, nearby moles get scared into hiding too
 - Includes custom sprites and sound effects
+
 🔗 [View Code] ()
+
 *Requires Pygame installed to run locally.*
 
+<p align = "center">
 <img src="gameplays/whac-a-mole.gif" width="500">
+</p>
 
 ## FLAMES
 *Pair collab*
