@@ -44,7 +44,7 @@ Proficient in Python, and familiar with C, Elm, and HTML. Has created several mi
   - Scaredy Mole – if hit, nearby moles get scared into hiding too
 - Includes custom sprites and sound effects
 
-🔗 [View Code] ()
+🔗 [View Code](https://github.com/akliwanag/whac-a-mole)
 
 *Requires Pygame installed to run locally.*
 
@@ -61,7 +61,7 @@ Proficient in Python, and familiar with C, Elm, and HTML. Has created several mi
 - Can add multiple names, showing FLAMES results for each consecutive pair
 - Add/remove name fields, with pairwise FLAMES results shown for every pair
 
-🔗 [View Code] ()
+🔗 [View Code] (https://github.com/akliwanag/flames)
 
 *Ran using an online Elm compiler.*
 
