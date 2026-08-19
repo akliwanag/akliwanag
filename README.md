@@ -16,6 +16,7 @@ Proficient in Python, and familiar with C, Elm, and HTML. Has created several mi
 - Shoot Pokémon-themed enemies using Zuma-style color matching before they get through
 - Place and upgrade towers on the grid for extra firepower
 - Earn coins to spend in the shop on power-ups like Mega Bullet, Star, and Tower Frenzy
+- Can play in endless mode to add name to leaderboard
 - Includes custom sprites, music, and sound effects
 
 🔗 [View Code] ()
