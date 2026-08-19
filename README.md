@@ -1,5 +1,7 @@
+<p align = "center">
 # Anne Keir S. Liwanag
 liwanag.annekeir@gmail.com | asliwanag1@up.edu.ph | 09605331104
+</p>
 
 ---
 An organized and driven BS Computer Science student at the University of the Philippines, Diliman, with experience leading teams and events. Committed to putting in extra time and effort to learn new skills and support the team. Aspires to use these experiences to develop systems that improve lives through technology.
