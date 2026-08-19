@@ -11,6 +11,7 @@ An organized and driven BS Computer Science student at the University of the Phi
 
 Proficient in Python, and familiar with C, Elm, and HTML. Has created several mini-games and activities with peers from Computer Science classes, and hopes to expand into data analysis and systems for future projects.
 </p>
+
 ---
 
 # 🎮 Projects
@@ -24,7 +25,7 @@ Proficient in Python, and familiar with C, Elm, and HTML. Has created several mi
 - Can play in endless mode to add name to leaderboard
 - Includes custom sprites, music, and sound effects
 
-🔗 [View Code] (https://github.com/akliwanag/zuma-tower-defense)
+🔗 ![View Code](https://github.com/akliwanag/zuma-tower-defense)
 
 *Requires Pygame installed to run locally.*
 
