@@ -38,7 +38,7 @@ Proficient in Python, and familiar with C, Elm, and HTML. Has created several mi
 🔗 [View Code] ()
 *Requires Pygame installed to run locally.*
 
-[Whac-A-Mole Gameplay]()
+[Whac-A-Mole Gameplay](gameplays/whac-a-mole.gif)
 
 ## FLAMES
 *Pair collab*
