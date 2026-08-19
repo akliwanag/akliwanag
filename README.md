@@ -6,10 +6,11 @@ liwanag.annekeir@gmail.com | asliwanag1@up.edu.ph | 09605331104
 </p>
 
 ---
+<p align = "justify">
 An organized and driven BS Computer Science student at the University of the Philippines, Diliman, with experience leading teams and events. Committed to putting in extra time and effort to learn new skills and support the team. Aspires to use these experiences to develop systems that improve lives through technology.
 
 Proficient in Python, and familiar with C, Elm, and HTML. Has created several mini-games and activities with peers from Computer Science classes, and hopes to expand into data analysis and systems for future projects.
-
+</p>
 ---
 
 # 🎮 Projects
