@@ -5,9 +5,11 @@ liwanag.annekeir@gmail.com | asliwanag1@up.edu.ph | 09605331104
 An organized and driven BS Computer Science student at the University of the Philippines, Diliman, with experience leading teams and events. Committed to putting in extra time and effort to learn new skills and support the team. Aspires to use these experiences to develop systems that improve lives through technology.
 
 Proficient in Python, and familiar with C, Elm, and HTML. Has created several mini-games and activities with peers from Computer Science classes, and hopes to expand into data analysis and systems for future projects.
+
 ---
 
-🎮 Projects
+# 🎮 Projects
+
 ## Zuma Tower Defense
 *Collab with a team of 4*
 - Built in **Python and Pygame**
@@ -15,7 +17,9 @@ Proficient in Python, and familiar with C, Elm, and HTML. Has created several mi
 - Place and upgrade towers on the grid for extra firepower
 - Earn coins to spend in the shop on power-ups like Mega Bullet, Star, and Tower Frenzy
 - Includes custom sprites, music, and sound effects
+
 🔗 [View Code] ()
+
 *Requires Pygame installed to run locally.*
 
 [Zuma Tower Defense Gameplay]()
